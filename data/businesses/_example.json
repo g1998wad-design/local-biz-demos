@@ -1,0 +1,16 @@
+{
+  "slug": "_example",
+  "business_id": "foursquare:example123",
+  "name": "Example Business",
+  "category": "Restaurant",
+  "tagline": "Fresh, local, and made with care.",
+  "about": "Example Business has been a neighborhood favorite, known for quality and friendly service.",
+  "address": "123 Main St",
+  "city": "Rockville, MD",
+  "phone": "(301) 555-0100",
+  "email": "",
+  "services": ["Dine-in", "Takeout", "Catering"],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}
