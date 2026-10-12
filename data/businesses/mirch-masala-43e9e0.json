@@ -1,0 +1,20 @@
+{
+  "slug": "mirch-masala-43e9e0",
+  "business_id": "foursquare:06153d169e5d4886cd43e9e0",
+  "name": "Mirch Masala",
+  "category": "Indian Restaurant",
+  "tagline": "Fresh, local, and made with care.",
+  "about": "Mirch Masala serves up food made fresh daily in Potomac, with a focus on quality ingredients and a welcoming atmosphere. Whether you're stopping in for a quick bite or settling in for a full meal, there's something for everyone.",
+  "address": "9702 Glynshire Way",
+  "city": "Potomac",
+  "phone": "(301) 330-9017",
+  "email": "",
+  "services": [
+    "Dine-in",
+    "Takeout",
+    "Catering"
+  ],
+  "accentColor": "#ea580c",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://mirchmasala.net"
+}

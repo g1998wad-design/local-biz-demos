@@ -1,0 +1,20 @@
+{
+  "slug": "dr-benjamin-rubin-0895ba",
+  "business_id": "foursquare:5759a72b498ead2a520895ba",
+  "name": "Dr. Benjamin Rubin",
+  "category": "Optometrist",
+  "tagline": "Quality care, close to home.",
+  "about": "Dr. Benjamin Rubin provides attentive, professional care to patients throughout Potomac. The practice is committed to making every visit comfortable, efficient, and focused on your well-being.",
+  "address": "7801 Renoir Ct",
+  "city": "Potomac",
+  "phone": "(301) 309-1886",
+  "email": "",
+  "services": [
+    "New Patients Welcome",
+    "Most Insurance Accepted",
+    "Online Scheduling"
+  ],
+  "accentColor": "#0891b2",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://benjaminrubin.eyemd.org"
+}

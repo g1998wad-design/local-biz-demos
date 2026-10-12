@@ -1,0 +1,20 @@
+{
+  "slug": "that-video-guy-8f4773",
+  "business_id": "foursquare:52cd7d0f11d278856d8f4773",
+  "name": "That Video Guy",
+  "category": "Miscellaneous Store",
+  "tagline": "Shop local, shop quality.",
+  "about": "That Video Guy brings a hand-picked selection to shoppers in Rockville. Stop by to see what's new and get the kind of personal service you won't find online.",
+  "address": "12525 Saint James Rd",
+  "city": "Rockville",
+  "phone": "(301) 340-7467",
+  "email": "thatvideoguy@verizon.net",
+  "services": [
+    "In-Store Shopping",
+    "Gift Cards",
+    "Local Pickup"
+  ],
+  "accentColor": "#7c3aed",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://www.thatvideoguy.net"
+}

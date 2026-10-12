@@ -1,0 +1,20 @@
+{
+  "slug": "d-f-construction-aa7d15",
+  "business_id": "foursquare:16324b04f1dd4ec69baa7d15",
+  "name": "D & F Construction",
+  "category": "Construction Supplies Store",
+  "tagline": "Reliable work, done right.",
+  "about": "D & F Construction has been serving Potomac with dependable, professional service. From small repairs to bigger projects, the team shows up on time and gets the job done right.",
+  "address": "11913 Seven Locks Rd",
+  "city": "Potomac",
+  "phone": "(301) 424-5090",
+  "email": "penini6@aol.com",
+  "services": [
+    "Free Estimates",
+    "Licensed & Insured",
+    "Emergency Service"
+  ],
+  "accentColor": "#b45309",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://dandfconstruction.net"
+}
