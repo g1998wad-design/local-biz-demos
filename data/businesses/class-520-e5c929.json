@@ -1,0 +1,20 @@
+{
+  "slug": "class-520-e5c929",
+  "business_id": "foursquare:57f405ddcd1054a283e5c929",
+  "name": "Class 520",
+  "category": "Ice Cream Parlor",
+  "tagline": "Proudly serving Rockville.",
+  "about": "Class 520 is a local business serving the Rockville community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "5 Dawson Ave",
+  "city": "Rockville",
+  "phone": "(301) 637-9791",
+  "email": "class520md@gmail.com",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://www.class520icecream.com"
+}

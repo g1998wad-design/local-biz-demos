@@ -1,0 +1,20 @@
+{
+  "slug": "modern-style-construction-0befdb",
+  "business_id": "foursquare:e60e7b6b7c1c4851dd0befdb",
+  "name": "Modern Style Construction",
+  "category": "Construction Supplies Store",
+  "tagline": "Reliable work, done right.",
+  "about": "Modern Style Construction has been serving Potomac with dependable, professional service. From small repairs to bigger projects, the team shows up on time and gets the job done right.",
+  "address": "9317 Copenhaver Dr",
+  "city": "Potomac",
+  "phone": "(301) 804-6420",
+  "email": "",
+  "services": [
+    "Free Estimates",
+    "Licensed & Insured",
+    "Emergency Service"
+  ],
+  "accentColor": "#b45309",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "oriental-cafe-e71540",
+  "business_id": "foursquare:4be9e466a9900f47b3e71540",
+  "name": "Oriental Cafe",
+  "category": "Chinese Restaurant",
+  "tagline": "Fresh, local, and made with care.",
+  "about": "Oriental Cafe serves up food made fresh daily in Rockville, with a focus on quality ingredients and a welcoming atmosphere. Whether you're stopping in for a quick bite or settling in for a full meal, there's something for everyone.",
+  "address": "9745 Traville Gateway Dr",
+  "city": "Rockville",
+  "phone": "(301) 424-1688",
+  "email": "shashib@gmail.com",
+  "services": [
+    "Dine-in",
+    "Takeout",
+    "Catering"
+  ],
+  "accentColor": "#ea580c",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "https://orientalcafe1688.com"
+}

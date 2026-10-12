@@ -1,0 +1,20 @@
+{
+  "slug": "ize-s-deli-bagelry-8c20e3",
+  "business_id": "foursquare:4abe464bf964a5205b8c20e3",
+  "name": "Iz\u0113's Deli & Bagelry",
+  "category": "Bagel Shop",
+  "tagline": "Shop local, shop quality.",
+  "about": "Iz\u0113's Deli & Bagelry brings a hand-picked selection to shoppers in Rockville. Stop by to see what's new and get the kind of personal service you won't find online.",
+  "address": "11622 Rockville Pike",
+  "city": "Rockville",
+  "phone": "(301) 231-0771",
+  "email": "izsesdeliandbagelry@aol.com",
+  "services": [
+    "In-Store Shopping",
+    "Gift Cards",
+    "Local Pickup"
+  ],
+  "accentColor": "#7c3aed",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://www.izesdeliandbagelry.com"
+}

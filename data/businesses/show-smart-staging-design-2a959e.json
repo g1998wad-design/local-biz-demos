@@ -1,0 +1,20 @@
+{
+  "slug": "show-smart-staging-design-2a959e",
+  "business_id": "foursquare:579be08f498ed16d9d2a959e",
+  "name": "Show Smart Staging & Design",
+  "category": "unknown",
+  "tagline": "Proudly serving Rockville.",
+  "about": "Show Smart Staging & Design is a local business serving the Rockville community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "108 Forest Ave",
+  "city": "Rockville",
+  "phone": "(757) 619-9789",
+  "email": "pat@show-smart.com",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://www.showsmartstaging.com"
+}

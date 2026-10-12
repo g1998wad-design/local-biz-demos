@@ -1,0 +1,20 @@
+{
+  "slug": "bageltowne-deli-d8cb01",
+  "business_id": "foursquare:4bbb5aebb35776b049d8cb01",
+  "name": "Bageltowne Deli",
+  "category": "Bagel Shop",
+  "tagline": "Shop local, shop quality.",
+  "about": "Bageltowne Deli brings a hand-picked selection to shoppers in Rockville. Stop by to see what's new and get the kind of personal service you won't find online.",
+  "address": "9749 Traville Gateway Dr",
+  "city": "Rockville",
+  "phone": "(301) 279-7035",
+  "email": "support@justhost.com",
+  "services": [
+    "In-Store Shopping",
+    "Gift Cards",
+    "Local Pickup"
+  ],
+  "accentColor": "#7c3aed",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://www.bageltownedeli.com"
+}

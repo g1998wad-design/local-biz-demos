@@ -1,0 +1,20 @@
+{
+  "slug": "loyal-companion-4c6872",
+  "business_id": "foursquare:4d0d34a4bdbfa35d234c6872",
+  "name": "Loyal Companion",
+  "category": "Pet Supplies Store",
+  "tagline": "Shop local, shop quality.",
+  "about": "Loyal Companion brings a hand-picked selection to shoppers in Rockville. Stop by to see what's new and get the kind of personal service you won't find online.",
+  "address": "1643 Rockville Pike",
+  "city": "Rockville",
+  "phone": "(301) 770-1077",
+  "email": "",
+  "services": [
+    "In-Store Shopping",
+    "Gift Cards",
+    "Local Pickup"
+  ],
+  "accentColor": "#7c3aed",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "https://loyalcompanion.com/a/pages/locations/148/loyal-companion-congressional"
+}

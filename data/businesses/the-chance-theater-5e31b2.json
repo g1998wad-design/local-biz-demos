@@ -1,0 +1,20 @@
+{
+  "slug": "the-chance-theater-5e31b2",
+  "business_id": "foursquare:4d6a7fd6b6f46dcb4e5e31b2",
+  "name": "The Chance Theater",
+  "category": "unknown",
+  "tagline": "Proudly serving Farmington.",
+  "about": "The Chance Theater is a local business serving the Farmington community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "5 crannell street",
+  "city": "Farmington",
+  "phone": "",
+  "email": "",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

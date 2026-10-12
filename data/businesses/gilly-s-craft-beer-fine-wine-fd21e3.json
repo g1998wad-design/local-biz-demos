@@ -1,0 +1,20 @@
+{
+  "slug": "gilly-s-craft-beer-fine-wine-fd21e3",
+  "business_id": "foursquare:4af5dd26f964a520fcfd21e3",
+  "name": "Gilly's Craft Beer & Fine Wine",
+  "category": "Beer Store",
+  "tagline": "Shop local, shop quality.",
+  "about": "Gilly's Craft Beer & Fine Wine brings a hand-picked selection to shoppers in Rockville. Stop by to see what's new and get the kind of personal service you won't find online.",
+  "address": "2009 Chapman Ave",
+  "city": "Rockville",
+  "phone": "(301) 770-5515",
+  "email": "johnna@gillyscbfw.com",
+  "services": [
+    "In-Store Shopping",
+    "Gift Cards",
+    "Local Pickup"
+  ],
+  "accentColor": "#7c3aed",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

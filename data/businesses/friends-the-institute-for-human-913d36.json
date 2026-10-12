@@ -1,0 +1,20 @@
+{
+  "slug": "friends-the-institute-for-human-913d36",
+  "business_id": "foursquare:d7b1812b90d4447f2a913d36",
+  "name": "Friends-The Institute For Human",
+  "category": "unknown",
+  "tagline": "Proudly serving Rockville.",
+  "about": "Friends-The Institute For Human is a local business serving the Rockville community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "209 Harrison St",
+  "city": "Rockville",
+  "phone": "(301) 762-8197",
+  "email": "",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "https://www.ihrda.org/about-us/friends"
+}

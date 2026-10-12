@@ -1,0 +1,20 @@
+{
+  "slug": "johnny-s-deli-00cd56",
+  "business_id": "foursquare:4c2a68b5355cef3bfd00cd56",
+  "name": "Johnny's Deli",
+  "category": "Sandwich Spot",
+  "tagline": "Proudly serving Potomac.",
+  "about": "Johnny's Deli is a local business serving the Potomac community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "7811 Montrose Rd",
+  "city": "Potomac",
+  "phone": "(301) 424-2620",
+  "email": "",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

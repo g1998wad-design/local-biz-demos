@@ -1,0 +1,20 @@
+{
+  "slug": "food-and-wine-by-nafi-1422b7",
+  "business_id": "foursquare:4e2f2552152010789d1422b7",
+  "name": "Food and Wine by Nafi",
+  "category": "Winery",
+  "tagline": "Proudly serving Potomac.",
+  "about": "Food and Wine by Nafi is a local business serving the Potomac community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "12522 Ansin Circle Dr",
+  "city": "Potomac",
+  "phone": "(301) 655-3336",
+  "email": "",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

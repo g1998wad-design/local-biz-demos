@@ -1,0 +1,20 @@
+{
+  "slug": "snowbots-1051b3",
+  "business_id": "foursquare:5478caee498ea3fb991051b3",
+  "name": "Snowbots",
+  "category": "Dessert Shop",
+  "tagline": "Shop local, shop quality.",
+  "about": "Snowbots brings a hand-picked selection to shoppers in Rockville. Stop by to see what's new and get the kind of personal service you won't find online.",
+  "address": "1701 Rockville Pike",
+  "city": "Rockville",
+  "phone": "(301) 770-3593",
+  "email": "snowbotsdc@gmail.com",
+  "services": [
+    "In-Store Shopping",
+    "Gift Cards",
+    "Local Pickup"
+  ],
+  "accentColor": "#7c3aed",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

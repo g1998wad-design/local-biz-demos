@@ -1,0 +1,20 @@
+{
+  "slug": "akira-ramen-izakaya-dde1e7",
+  "business_id": "foursquare:59dbe6fa6661167133dde1e7",
+  "name": "Akira Ramen & Izakaya",
+  "category": "Ramen Restaurant",
+  "tagline": "Fresh, local, and made with care.",
+  "about": "Akira Ramen & Izakaya serves up food made fresh daily in Rockville, with a focus on quality ingredients and a welcoming atmosphere. Whether you're stopping in for a quick bite or settling in for a full meal, there's something for everyone.",
+  "address": "1800 Rockville Pike",
+  "city": "Rockville",
+  "phone": "(240) 242-3669",
+  "email": "",
+  "services": [
+    "Dine-in",
+    "Takeout",
+    "Catering"
+  ],
+  "accentColor": "#ea580c",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://www.akiraramen.com"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "j-kramer-lcsw-de6208",
+  "business_id": "foursquare:f21b57a7e2184f0ab1de6208",
+  "name": "J Kramer LCSW",
+  "category": "Mental Health Clinic",
+  "tagline": "Quality care, close to home.",
+  "about": "J Kramer LCSW provides attentive, professional care to patients throughout Potomac. The practice is committed to making every visit comfortable, efficient, and focused on your well-being.",
+  "address": "8823 Maxwell Dr",
+  "city": "Potomac",
+  "phone": "(301) 299-9879",
+  "email": "",
+  "services": [
+    "New Patients Welcome",
+    "Most Insurance Accepted",
+    "Online Scheduling"
+  ],
+  "accentColor": "#0891b2",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

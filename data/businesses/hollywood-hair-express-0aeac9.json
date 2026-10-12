@@ -1,0 +1,20 @@
+{
+  "slug": "hollywood-hair-express-0aeac9",
+  "business_id": "foursquare:6940955c62a48a51b80aeac9",
+  "name": "Hollywood Hair Express",
+  "category": "Cosmetics Store",
+  "tagline": "Shop local, shop quality.",
+  "about": "Hollywood Hair Express brings a hand-picked selection to shoppers in Rockville. Stop by to see what's new and get the kind of personal service you won't find online.",
+  "address": "9710 Traville Gateway Dr",
+  "city": "Rockville",
+  "phone": "(877) 246-9744",
+  "email": "",
+  "services": [
+    "In-Store Shopping",
+    "Gift Cards",
+    "Local Pickup"
+  ],
+  "accentColor": "#7c3aed",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

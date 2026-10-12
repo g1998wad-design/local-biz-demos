@@ -1,0 +1,20 @@
+{
+  "slug": "sichuan-jin-river-2b25e3",
+  "business_id": "foursquare:4b35447cf964a520bf2b25e3",
+  "name": "Sichuan Jin River",
+  "category": "Chinese Restaurant",
+  "tagline": "Fresh, local, and made with care.",
+  "about": "Sichuan Jin River serves up food made fresh daily in Rockville, with a focus on quality ingredients and a welcoming atmosphere. Whether you're stopping in for a quick bite or settling in for a full meal, there's something for everyone.",
+  "address": "410 Hungerford Dr",
+  "city": "Rockville",
+  "phone": "(240) 403-7351",
+  "email": "wenke@scpavilion.com",
+  "services": [
+    "Dine-in",
+    "Takeout",
+    "Catering"
+  ],
+  "accentColor": "#ea580c",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://www.sichuanjinriver.com"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "the-bukhara-226ddb",
+  "business_id": "foursquare:51d851b2498e2622b0226ddb",
+  "name": "The Bukhara",
+  "category": "Indian Restaurant",
+  "tagline": "Fresh, local, and made with care.",
+  "about": "The Bukhara serves up food made fresh daily in Rockville, with a focus on quality ingredients and a welcoming atmosphere. Whether you're stopping in for a quick bite or settling in for a full meal, there's something for everyone.",
+  "address": "9736 Traville Gateway Dr",
+  "city": "Rockville",
+  "phone": "(301) 738-2000",
+  "email": "contact@thebukhara.com",
+  "services": [
+    "Dine-in",
+    "Takeout",
+    "Catering"
+  ],
+  "accentColor": "#ea580c",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://www.thebukhara.com"
+}

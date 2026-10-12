@@ -1,0 +1,20 @@
+{
+  "slug": "wallace-masciuch-cdf761",
+  "business_id": "foursquare:4f82ede5e4b0fc8b1acdf761",
+  "name": "wallace masciuch",
+  "category": "Doctor's Office",
+  "tagline": "Quality care, close to home.",
+  "about": "wallace masciuch provides attentive, professional care to patients throughout Rockville. The practice is committed to making every visit comfortable, efficient, and focused on your well-being.",
+  "address": "6274 Montrose Rd, Rockville, MD 20852",
+  "city": "Rockville",
+  "phone": "(301) 230-2444",
+  "email": "frontdesk@small-bones.com",
+  "services": [
+    "New Patients Welcome",
+    "Most Insurance Accepted",
+    "Online Scheduling"
+  ],
+  "accentColor": "#0891b2",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://www.small-bones.com"
+}

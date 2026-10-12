@@ -1,0 +1,20 @@
+{
+  "slug": "china-taste-tokyo-express-7427e3",
+  "business_id": "foursquare:4b524913f964a520f27427e3",
+  "name": "China Taste | Tokyo Express",
+  "category": "Chinese Restaurant",
+  "tagline": "Fresh, local, and made with care.",
+  "about": "China Taste | Tokyo Express serves up food made fresh daily in Rockville, with a focus on quality ingredients and a welcoming atmosphere. Whether you're stopping in for a quick bite or settling in for a full meal, there's something for everyone.",
+  "address": "155 Rollins Ave",
+  "city": "Rockville",
+  "phone": "(301) 984-6888",
+  "email": "",
+  "services": [
+    "Dine-in",
+    "Takeout",
+    "Catering"
+  ],
+  "accentColor": "#ea580c",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://www.chinatastetokyo.com"
+}

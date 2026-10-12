@@ -1,0 +1,20 @@
+{
+  "slug": "my-best-friend-s-closet-86e8d2",
+  "business_id": "foursquare:4db32d381e7248d13586e8d2",
+  "name": "My Best Friend's Closet",
+  "category": "Women's Store",
+  "tagline": "Shop local, shop quality.",
+  "about": "My Best Friend's Closet brings a hand-picked selection to shoppers in Rockville. Stop by to see what's new and get the kind of personal service you won't find online.",
+  "address": "9735 Traville Gateway Dr",
+  "city": "Rockville",
+  "phone": "(301) 340-3233",
+  "email": "info@mybffcloset.com",
+  "services": [
+    "In-Store Shopping",
+    "Gift Cards",
+    "Local Pickup"
+  ],
+  "accentColor": "#7c3aed",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

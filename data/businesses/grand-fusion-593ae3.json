@@ -1,0 +1,20 @@
+{
+  "slug": "grand-fusion-593ae3",
+  "business_id": "foursquare:4baa461cf964a520fc593ae3",
+  "name": "Grand Fusion",
+  "category": "Chinese Restaurant",
+  "tagline": "Fresh, local, and made with care.",
+  "about": "Grand Fusion serves up food made fresh daily in Rockville, with a focus on quality ingredients and a welcoming atmosphere. Whether you're stopping in for a quick bite or settling in for a full meal, there's something for everyone.",
+  "address": "350 Fortune Ter",
+  "city": "Rockville",
+  "phone": "(301) 838-2862",
+  "email": "hockeydds@aol.com",
+  "services": [
+    "Dine-in",
+    "Takeout",
+    "Catering"
+  ],
+  "accentColor": "#ea580c",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

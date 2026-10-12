@@ -1,0 +1,20 @@
+{
+  "slug": "bruno-s-pizzeria-fdac91",
+  "business_id": "foursquare:4c9680bf72dd224bc7fdac91",
+  "name": "Bruno's Pizzeria",
+  "category": "Pizzeria",
+  "tagline": "Fresh, local, and made with care.",
+  "about": "Bruno's Pizzeria serves up food made fresh daily in Potomac, with a focus on quality ingredients and a welcoming atmosphere. Whether you're stopping in for a quick bite or settling in for a full meal, there's something for everyone.",
+  "address": "",
+  "city": "Potomac",
+  "phone": "",
+  "email": "",
+  "services": [
+    "Dine-in",
+    "Takeout",
+    "Catering"
+  ],
+  "accentColor": "#ea580c",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "cheeburger-cheeburger-2a23e3",
+  "business_id": "foursquare:4b0af416f964a520a22a23e3",
+  "name": "Cheeburger Cheeburger",
+  "category": "Burger Joint",
+  "tagline": "Proudly serving Rockville.",
+  "about": "Cheeburger Cheeburger is a local business serving the Rockville community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "14921 Shady Grove Rd",
+  "city": "Rockville",
+  "phone": "(301) 309-9555",
+  "email": "hlautry@cheeburger.com",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://www.cheeburger.com/"
+}

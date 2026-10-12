@@ -1,0 +1,20 @@
+{
+  "slug": "congressional-plaza-bb16cf",
+  "business_id": "foursquare:4c74312408dcef3b48bb16cf",
+  "name": "Congressional Plaza",
+  "category": "Shopping Mall",
+  "tagline": "Shop local, shop quality.",
+  "about": "Congressional Plaza brings a hand-picked selection to shoppers in Rockville. Stop by to see what's new and get the kind of personal service you won't find online.",
+  "address": "154 Congressional Ln",
+  "city": "Rockville",
+  "phone": "(877) 265-7417",
+  "email": "lcrowley@federalrealty.com",
+  "services": [
+    "In-Store Shopping",
+    "Gift Cards",
+    "Local Pickup"
+  ],
+  "accentColor": "#7c3aed",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://www.congressionalplaza.com/"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "shevaesthetics-55a27c",
+  "business_id": "foursquare:d07c4887f421ef99e055a27c",
+  "name": "Shevaesthetics",
+  "category": "unknown",
+  "tagline": "Proudly serving Rockville.",
+  "about": "Shevaesthetics is a local business serving the Rockville community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "110 S Washington St",
+  "city": "Rockville",
+  "phone": "(617) 335-2340",
+  "email": "info@shevaesthetics.com",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "https://www.shevaesthetics.com"
+}

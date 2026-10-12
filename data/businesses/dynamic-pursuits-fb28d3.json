@@ -1,0 +1,20 @@
+{
+  "slug": "dynamic-pursuits-fb28d3",
+  "business_id": "foursquare:4f32cacb19836c91c7fb28d3",
+  "name": "Dynamic Pursuits",
+  "category": "Bar",
+  "tagline": "Fresh, local, and made with care.",
+  "about": "Dynamic Pursuits serves up food made fresh daily in Rockville, with a focus on quality ingredients and a welcoming atmosphere. Whether you're stopping in for a quick bite or settling in for a full meal, there's something for everyone.",
+  "address": "11611 Le Havre Dr",
+  "city": "Rockville",
+  "phone": "(301) 294-0133",
+  "email": "",
+  "services": [
+    "Dine-in",
+    "Takeout",
+    "Catering"
+  ],
+  "accentColor": "#ea580c",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

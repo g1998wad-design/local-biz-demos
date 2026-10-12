@@ -1,0 +1,20 @@
+{
+  "slug": "lavande-patisserie-71b4c3",
+  "business_id": "foursquare:56477b0b498e304c8c71b4c3",
+  "name": "Lavande Patisserie",
+  "category": "Bakery",
+  "tagline": "Fresh, local, and made with care.",
+  "about": "Lavande Patisserie serves up food made fresh daily in Rockville, with a focus on quality ingredients and a welcoming atmosphere. Whether you're stopping in for a quick bite or settling in for a full meal, there's something for everyone.",
+  "address": "275 N Washington St",
+  "city": "Rockville",
+  "phone": "(301) 424-6100",
+  "email": "info@lavandepatisserie.com",
+  "services": [
+    "Dine-in",
+    "Takeout",
+    "Catering"
+  ],
+  "accentColor": "#ea580c",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "https://www.lavande-patisserie.com"
+}

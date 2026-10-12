@@ -1,0 +1,20 @@
+{
+  "slug": "bob-s-shanghai-66-59ea21",
+  "business_id": "foursquare:5157267be4b034f6dd59ea21",
+  "name": "Bob's Shanghai 66",
+  "category": "Chinese Restaurant",
+  "tagline": "Fresh, local, and made with care.",
+  "about": "Bob's Shanghai 66 serves up food made fresh daily in Rockville, with a focus on quality ingredients and a welcoming atmosphere. Whether you're stopping in for a quick bite or settling in for a full meal, there's something for everyone.",
+  "address": "305 N Washington St",
+  "city": "Rockville",
+  "phone": "(301) 251-6652",
+  "email": "rockville66@gmail.com",
+  "services": [
+    "Dine-in",
+    "Takeout",
+    "Catering"
+  ],
+  "accentColor": "#ea580c",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "https://www.bobsshanghai66.com"
+}

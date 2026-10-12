@@ -1,0 +1,20 @@
+{
+  "slug": "montgomery-history-db9026",
+  "business_id": "foursquare:69405f3265d559314adb9026",
+  "name": "Montgomery History",
+  "category": "Charity",
+  "tagline": "Proudly serving Rockville.",
+  "about": "Montgomery History is a local business serving the Rockville community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "111 W Montgomery Ave",
+  "city": "Rockville",
+  "phone": "",
+  "email": "",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "summit-ambulatory-surgical-center-ca38ad",
+  "business_id": "foursquare:5dee874f9c40460008ca38ad",
+  "name": "Summit Ambulatory Surgical Center",
+  "category": "Medical Center",
+  "tagline": "Quality care, close to home.",
+  "about": "Summit Ambulatory Surgical Center provides attentive, professional care to patients throughout Potomac. The practice is committed to making every visit comfortable, efficient, and focused on your well-being.",
+  "address": "12435 Park Potomac Ave Ste 410",
+  "city": "Potomac",
+  "phone": "",
+  "email": "",
+  "services": [
+    "New Patients Welcome",
+    "Most Insurance Accepted",
+    "Online Scheduling"
+  ],
+  "accentColor": "#0891b2",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

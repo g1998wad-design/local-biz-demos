@@ -1,0 +1,20 @@
+{
+  "slug": "park-potomac-place-302ce3",
+  "business_id": "foursquare:4b6c5348f964a520d2302ce3",
+  "name": "Park Potomac Place",
+  "category": "Shopping Mall",
+  "tagline": "Shop local, shop quality.",
+  "about": "Park Potomac Place brings a hand-picked selection to shoppers in Potomac. Stop by to see what's new and get the kind of personal service you won't find online.",
+  "address": "12500 Park Potomac Ave",
+  "city": "Potomac",
+  "phone": "(301) 545-1756",
+  "email": "",
+  "services": [
+    "In-Store Shopping",
+    "Gift Cards",
+    "Local Pickup"
+  ],
+  "accentColor": "#7c3aed",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "https://parkpotomac.com"
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "drs-hammerman-wanicur-kane-zeller-fe7e82",
+  "business_id": "foursquare:4f33e8bee4b063260bfe7e82",
+  "name": "Drs. Hammerman, Wanicur, Kane, & Zeller",
+  "category": "Doctor's Office",
+  "tagline": "Quality care, close to home.",
+  "about": "Drs. Hammerman, Wanicur, Kane, & Zeller provides attentive, professional care to patients throughout Gaithersburg. The practice is committed to making every visit comfortable, efficient, and focused on your well-being.",
+  "address": "501 N Frederick Ave",
+  "city": "Gaithersburg",
+  "phone": "(301) 881-5888",
+  "email": "",
+  "services": [
+    "New Patients Welcome",
+    "Most Insurance Accepted",
+    "Online Scheduling"
+  ],
+  "accentColor": "#0891b2",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

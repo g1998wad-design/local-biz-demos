@@ -1,0 +1,20 @@
+{
+  "slug": "kmu-investor-group-b4e00e",
+  "business_id": "foursquare:223d3624e5f116aadab4e00e",
+  "name": "KMU Investor Group",
+  "category": "unknown",
+  "tagline": "Proudly serving Rockville.",
+  "about": "KMU Investor Group is a local business serving the Rockville community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "9710 Traville Gateway Dr",
+  "city": "Rockville",
+  "phone": "(301) 545-2917",
+  "email": "km@kmuinvestorgroup.com",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "https://kmuinvestorgroup.com"
+}

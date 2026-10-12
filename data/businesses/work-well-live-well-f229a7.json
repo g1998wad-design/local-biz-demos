@@ -1,0 +1,20 @@
+{
+  "slug": "work-well-live-well-f229a7",
+  "business_id": "foursquare:4e8deeee02d534fc58f229a7",
+  "name": "Work Well, Live Well",
+  "category": "Doctor's Office",
+  "tagline": "Quality care, close to home.",
+  "about": "Work Well, Live Well provides attentive, professional care to patients throughout Potomac. The practice is committed to making every visit comfortable, efficient, and focused on your well-being.",
+  "address": "",
+  "city": "Potomac",
+  "phone": "",
+  "email": "",
+  "services": [
+    "New Patients Welcome",
+    "Most Insurance Accepted",
+    "Online Scheduling"
+  ],
+  "accentColor": "#0891b2",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

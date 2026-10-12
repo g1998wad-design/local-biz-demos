@@ -1,0 +1,20 @@
+{
+  "slug": "reel-time-3eab95",
+  "business_id": "foursquare:4d2d0039679e6dcbf13eab95",
+  "name": "Reel Time",
+  "category": "Movie Theater",
+  "tagline": "Proudly serving Rockville.",
+  "about": "Reel Time is a local business serving the Rockville community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "",
+  "city": "Rockville, MD",
+  "phone": "",
+  "email": "",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "capital-digestive-care-0f8ed5",
+  "business_id": "foursquare:4e9c4a4b8b81c0254f0f8ed5",
+  "name": "Capital Digestive Care",
+  "category": "Doctor's Office",
+  "tagline": "Quality care, close to home.",
+  "about": "Capital Digestive Care provides attentive, professional care to patients throughout Rockville. The practice is committed to making every visit comfortable, efficient, and focused on your well-being.",
+  "address": "",
+  "city": "Rockville, MD",
+  "phone": "",
+  "email": "",
+  "services": [
+    "New Patients Welcome",
+    "Most Insurance Accepted",
+    "Online Scheduling"
+  ],
+  "accentColor": "#0891b2",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

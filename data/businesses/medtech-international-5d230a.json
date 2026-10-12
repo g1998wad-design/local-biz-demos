@@ -1,0 +1,20 @@
+{
+  "slug": "medtech-international-5d230a",
+  "business_id": "foursquare:72e909f5e15244a5105d230a",
+  "name": "Medtech International",
+  "category": "Medical Supply Store",
+  "tagline": "Quality care, close to home.",
+  "about": "Medtech International provides attentive, professional care to patients throughout Potomac. The practice is committed to making every visit comfortable, efficient, and focused on your well-being.",
+  "address": "13505 Broadfield Dr",
+  "city": "Potomac",
+  "phone": "(301) 251-2881",
+  "email": "",
+  "services": [
+    "New Patients Welcome",
+    "Most Insurance Accepted",
+    "Online Scheduling"
+  ],
+  "accentColor": "#0891b2",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://medtech.com"
+}

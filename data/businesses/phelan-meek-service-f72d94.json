@@ -1,0 +1,20 @@
+{
+  "slug": "phelan-meek-service-f72d94",
+  "business_id": "foursquare:ca586417e378482473f72d94",
+  "name": "Phelan Meek Service",
+  "category": "Organization",
+  "tagline": "Proudly serving Rockville.",
+  "about": "Phelan Meek Service is a local business serving the Rockville community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "522 Anderson Ave",
+  "city": "Rockville",
+  "phone": "(301) 424-0683",
+  "email": "phelmeek@earthlink.net",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://pamelameekphd.com"
+}

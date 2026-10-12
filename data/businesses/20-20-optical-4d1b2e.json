@@ -1,0 +1,20 @@
+{
+  "slug": "20-20-optical-4d1b2e",
+  "business_id": "foursquare:27752132f2904108bd4d1b2e",
+  "name": "20-20 Optical",
+  "category": "Optometrist",
+  "tagline": "Quality care, close to home.",
+  "about": "20-20 Optical provides attentive, professional care to patients throughout Rockville. The practice is committed to making every visit comfortable, efficient, and focused on your well-being.",
+  "address": "6333 Executive Blvd",
+  "city": "Rockville",
+  "phone": "(301) 770-2020",
+  "email": "",
+  "services": [
+    "New Patients Welcome",
+    "Most Insurance Accepted",
+    "Online Scheduling"
+  ],
+  "accentColor": "#0891b2",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://2020optical.net"
+}

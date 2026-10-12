@@ -1,0 +1,20 @@
+{
+  "slug": "lakewood-banquet-hall-bf3ff9",
+  "business_id": "foursquare:509f15dde4b0bbf776bf3ff9",
+  "name": "Lakewood Banquet Hall",
+  "category": "Restaurant",
+  "tagline": "Fresh, local, and made with care.",
+  "about": "Lakewood Banquet Hall serves up food made fresh daily in Rockville, with a focus on quality ingredients and a welcoming atmosphere. Whether you're stopping in for a quick bite or settling in for a full meal, there's something for everyone.",
+  "address": "",
+  "city": "Rockville",
+  "phone": "",
+  "email": "",
+  "services": [
+    "Dine-in",
+    "Takeout",
+    "Catering"
+  ],
+  "accentColor": "#ea580c",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

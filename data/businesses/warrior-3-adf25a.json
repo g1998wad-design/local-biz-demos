@@ -1,0 +1,20 @@
+{
+  "slug": "warrior-3-adf25a",
+  "business_id": "foursquare:6a09f71d93c8103d51adf25a",
+  "name": "Warrior 3",
+  "category": "Sports and Recreation",
+  "tagline": "Proudly serving Rockville.",
+  "about": "Warrior 3 is a local business serving the Rockville community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "9729 Traville Gateway Dr",
+  "city": "Rockville",
+  "phone": "",
+  "email": "",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

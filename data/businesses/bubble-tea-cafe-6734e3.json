@@ -1,0 +1,20 @@
+{
+  "slug": "bubble-tea-cafe-6734e3",
+  "business_id": "foursquare:4b941863f964a520cd6734e3",
+  "name": "Bubble Tea Cafe",
+  "category": "Caf\u00e9",
+  "tagline": "Proudly serving Rockville.",
+  "about": "Bubble Tea Cafe is a local business serving the Rockville community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "130 Rollins Ave",
+  "city": "Rockville",
+  "phone": "(301) 770-1688",
+  "email": "",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "https://bubbleteacafe.com"
+}

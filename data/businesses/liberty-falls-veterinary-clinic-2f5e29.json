@@ -1,0 +1,20 @@
+{
+  "slug": "liberty-falls-veterinary-clinic-2f5e29",
+  "business_id": "foursquare:566320e3498ebe13b02f5e29",
+  "name": "Liberty Falls Veterinary Clinic",
+  "category": "Veterinarian",
+  "tagline": "Proudly serving Potomac.",
+  "about": "Liberty Falls Veterinary Clinic is a local business serving the Potomac community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "8924 Liberty Ln",
+  "city": "Potomac",
+  "phone": "(301) 762-2070",
+  "email": "libertyfallsvetclinic@gmail.com",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

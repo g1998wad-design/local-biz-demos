@@ -1,0 +1,20 @@
+{
+  "slug": "dr-martin-graf-114026",
+  "business_id": "foursquare:517ec4e8e4b0b45db6114026",
+  "name": "Dr Martin Graf",
+  "category": "Doctor's Office",
+  "tagline": "Quality care, close to home.",
+  "about": "Dr Martin Graf provides attentive, professional care to patients throughout Gaithersburg. The practice is committed to making every visit comfortable, efficient, and focused on your well-being.",
+  "address": "15525 Shady Grove Rd",
+  "city": "Gaithersburg",
+  "phone": "",
+  "email": "",
+  "services": [
+    "New Patients Welcome",
+    "Most Insurance Accepted",
+    "Online Scheduling"
+  ],
+  "accentColor": "#0891b2",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}

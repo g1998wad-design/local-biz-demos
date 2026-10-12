@@ -1,0 +1,20 @@
+{
+  "slug": "the-original-pancake-house-5a2ee3",
+  "business_id": "foursquare:4b76b6d4f964a5202c5a2ee3",
+  "name": "The Original Pancake House",
+  "category": "Breakfast Spot",
+  "tagline": "Proudly serving Rockville.",
+  "about": "The Original Pancake House is a local business serving the Rockville community with quality service and a personal touch. Stop by or get in touch to learn more.",
+  "address": "12224 Rockville Pike",
+  "city": "Rockville",
+  "phone": "(301) 468-0886",
+  "email": "info@originalpancakehouse.com",
+  "services": [
+    "Walk-ins Welcome",
+    "Call for Details",
+    "Locally Owned"
+  ],
+  "accentColor": "#2563eb",
+  "hadExistingWebsite": true,
+  "existingWebsiteUrl": "http://originalpancakehouse.com/"
+}

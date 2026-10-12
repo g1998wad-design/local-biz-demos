@@ -1,0 +1,20 @@
+{
+  "slug": "cardiocare-9cf6bb",
+  "business_id": "foursquare:63fcaf03d5d8a228949cf6bb",
+  "name": "Cardiocare",
+  "category": "Doctor's Office",
+  "tagline": "Quality care, close to home.",
+  "about": "Cardiocare provides attentive, professional care to patients throughout Potomac. The practice is committed to making every visit comfortable, efficient, and focused on your well-being.",
+  "address": "7811 Montrose Rd Ste 520",
+  "city": "Potomac",
+  "phone": "",
+  "email": "",
+  "services": [
+    "New Patients Welcome",
+    "Most Insurance Accepted",
+    "Online Scheduling"
+  ],
+  "accentColor": "#0891b2",
+  "hadExistingWebsite": false,
+  "existingWebsiteUrl": ""
+}
